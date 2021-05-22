@@ -1,16 +1,12 @@
 package com.example.gbisewanmawar;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
 import android.widget.ListView;
 
 import androidx.fragment.app.Fragment;
-
-import com.example.gbisewanmawar.ui.renungan.RenunganFragment;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -24,7 +20,7 @@ public class FragmentHarian extends Fragment {
         // Required empty public constructor
     }
 
-    private String[] hari = {"Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu"};
+    private String[] hari = {"Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu", "Minggu"};
     private Integer[] gambar = {R.drawable.ic_menu_gallery, R.drawable.ic_menu_gallery, R.drawable.ic_menu_gallery, R.drawable.ic_menu_gallery, R.drawable.ic_menu_gallery, R.drawable.ic_menu_gallery};
     private ListView lvhari;
 
