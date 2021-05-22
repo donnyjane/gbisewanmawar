@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GBI Sewan Mawar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">GBI Sewan Mawar</string>
+    <string name="nav_header_subtitle">gbi.sewanmawar.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_alkitab">Alkitab</string>
+    <string name="menu_renungan">Renungan</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_harian">Harian</string>
+
+    //Alkitab
+    <string name="Mazmur107_23">Mazmur 107:23-43 /br 107:23 Ada orang-orang yang mengarungi
+    laut dengan kapal-kapal, yang melakukan perdagangandi lautan luas; 107:24   mereka melihat
+    pekerjaan-pekerjaan TUHAN, dan perbuatan-perbuatan-Nya yang ajaib di tempat yang dalam.
+    107:25  Ia berfirman, maka dibangkitkan-Nya angin badai yang meninggikan gelombang-gelombangnya.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="renunganSenin">
+        <item>Selamat malam</item>
+        <item>Selamat pagi</item>
+    </string-array>
+</resources>
