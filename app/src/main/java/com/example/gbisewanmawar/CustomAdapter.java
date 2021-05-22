@@ -12,6 +12,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import org.fluttercode.datafactory.impl.DataFactory;
+
 /**
  *Created by DONNY on 19/5/2021.
  */
@@ -21,6 +23,7 @@ class CustomAdapter extends BaseAdapter{
     private String[] hari;
     private Integer[] gambar;
     private Activity activity;
+
 
     public CustomAdapter(Activity fragmentHarian, String[] hari, Integer[] gambar) {
         this.hari = hari;
